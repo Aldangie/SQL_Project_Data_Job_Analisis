@@ -60,19 +60,21 @@ LIMIT 10;
 ```
 Here's a concise summary of the top-paying data analyst jobs available remotely:
 
-- **Highest Salary:** $650,000 for a "Data Analyst" at Mantys.
+- **Top Salary:** $650,000 for a "Data Analyst" at Mantys.
 
-- **Director-Level Pay:** "Director of Analytics" at Meta earns $336,500; 
-"Associate Director- Data Insights" at AT&T earns $255,829.5.
+- **Senior Roles:** High salaries for "Director of Analytics" at Meta ($336,500)  and "Associate Director- Data Insights" at AT&T ($255,829.5).
 
-Specialized Roles: High salaries for roles like "Data Analyst, Marketing" at Pinterest ($232,423) 
-and "Principal Data Analyst" at SmartAsset ($205,000).
+- **Specialized Roles:** High pay for "Data Analyst, Marketing" at Pinterest ($232,423).
 
-Remote and Hybrid Options: Positions with hybrid or remote options offer competitive salaries, 
-such as $217,000 for a remote role at Uclahealthcareers.
+- **Remote/Hybrid:** All positions offer remote or hybrid options.
 
-Salary Range: $184,000 to $650,000.
-Company Variety: Includes tech giants (Meta, Pinterest) and other industries (AT&T, SmartAsset).
+- **Salary Range:** $184,000 to $650,000.
+
+- **Key Companies:** Includes major firms like Meta, AT&T, and Pinterest.
+
+
+
+
 
 - What I Learned
 - Conclusions
