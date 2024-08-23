@@ -166,7 +166,7 @@ Based on this data, here are some key insights:
 
 ![Top Demanded Skills](assets/3_top_demanded_skills.sql.image.png)
 
-*Table to quickly identify the top demanded skills for data analyst jobs.*
+*Table to quickly identify the top demanded skills for data analyst jobs; Gemini generated this table from my SQL query results**
 
 ### 4. Top skills based on salary for Data Analyst Jobs
 
@@ -203,7 +203,7 @@ LIMIT 25;
 
 ![Top Skills based on salary](assets/4_top_paying_skills.sql.image.png)
 
-*Table of the highest average salaries for the top 15 most lucrative skills for data analysts.*
+*Table of the highest average salaries for the top 15 most lucrative skills for data analysts; Gemini generated this table from my SQL query results*
 
 ### 5. Te most optimal skills to learn (high demand and high paying) as a Data Analyst
 
@@ -244,7 +244,7 @@ LIMIT 25;
 
 ![Optimal Skills](assets/5_optimal_skills.sql.image.png)
 
-*Table of the top 12 optimal skills for data analysts.*
+*Table of the top 12 optimal skills for data analysts; Gemini generated this table from my SQL query results*
 
 # Conclusions
 ### Insights
