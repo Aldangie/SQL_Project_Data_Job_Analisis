@@ -1,15 +1,15 @@
 # Introduction
 Uncover the landscape of lucrative careers in data analytics. This project investigates high-earning positions, key skills in demand, and the convergence of strong market needs with top-tier salaries in the field.
 
-SQL queries? Check them out here: [project_sql folder](/project_sql/) 
+You can check out the SQL queries here: [project_sql folder](/project_sql/) 
 
 # Background
 
-Fueled by the ambition to better understand the data analyst job market, this project emerged from a passion for identifying top-paying roles and key skills in demand, making it easier not only for me but for others to discover the best career opportunities.
+Fueled by the ambition to better understand the data analyst job market, this project emerged from a desire for identifying top-paying roles and key skills in demand, making it easier not only for me but also for others to discover the best career opportunities.
 
 Data is sourced from [SQL COURSE](https://lukebarousse.com/sql). It offers valuable insights into job titles, salaries, locations, and critical skills.
 
-### The questions I wanted to answer through my SQL queries were:
+### This are the questions I wanted to answer through my SQL queries:
 
 1. What are the top-paying data analyst jobs available remotely?
 2. What skills are required for these top-paying jobs?
@@ -31,7 +31,7 @@ For an in-depth exploration of the data analyst job market, I leveraged several 
 
 # The Analysis
 
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
+This project’s queries were built in order to examine various sides of the data analyst job market. Here’s how I answered each question:
 
 ### 1. Top paying Data Analyst Jobs available remotely
 
@@ -74,7 +74,7 @@ Here's a concise summary of the top-paying data analyst jobs available remotely:
 
 ![Top Paying Jobs](assets/1_top_paying_jobs.sql.image.png)
 
-*Bar chart visualizing the top 10 highest paying remote data analyst jobs based on the average yearly salary. The chart clearly shows that the "Data Analyst" role at Mantys is the highest paying, significantly above the others, with other senior and specialized roles also offering competitive salaries; ChatGPT generated this graph from my SQL query results* 
+*Bar chart visualizing the top 10 highest paying remote data analyst jobs based on the average yearly salary; ChatGPT generated this graph from my SQL query results* 
 
 ### 2. Skills for top paying Data Analyst jobs
 
@@ -132,7 +132,7 @@ Based on the analysis of the skills column, here are some key insights:
 
 ![Top Paying Job Skills](assets/2_top_paying_job_skills.sql.image.png)
 
-*This bar chart displays the most frequently mentioned skills for top-paying Data Analyst roles. SQL, Python, and Tableau are the top three skills, with SQL being mentioned the most frequently. The chart visually represents how often each skill is required in these high-compensation roles; ChatGPT generated this graph from my SQL query results*
+*This bar chart displays the most frequently mentioned skills for top-paying Data Analyst roles; ChatGPT generated this graph from my SQL query results*
 
 ### 3. Top demanded skills for Data Analyst Jobs
 
