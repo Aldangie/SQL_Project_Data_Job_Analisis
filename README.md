@@ -205,7 +205,7 @@ LIMIT 25;
 
 *Table of the highest average salaries for the top 15 most lucrative skills for data analysts; Gemini generated this table from my SQL query results*
 
-### 5. Te most optimal skills to learn (high demand and high paying) as a Data Analyst
+### 5. The most optimal skills to learn (high demand and high paying) as a Data Analyst
 
 This query focuses on skills that provide job stability (high demand) and substantial earnings (high salaries), delivering valuable guidance for advancing a career in data analysis.
 
